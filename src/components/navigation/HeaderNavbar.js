@@ -7,7 +7,6 @@ class HeaderNavBar extends Component{
     constructor(props){
         super(props);
         this.userRole = "admin";
-        var navbarText = "";
         if(this.userRole === "admin"){
             this.navbarText = "QuikBizTech Solutions"
         }
