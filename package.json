@@ -1,6 +1,6 @@
 {
   "homepage": "https://kapilkbindal.github.io/inv_frontend",
-  "name": "frontend",
+  "name": "inv_frontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
